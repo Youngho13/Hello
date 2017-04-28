@@ -12,6 +12,7 @@
 		1445FC801EB371BA006BFE03 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1445FC7E1EB371BA006BFE03 /* Main.storyboard */; };
 		1445FC821EB371BA006BFE03 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1445FC811EB371BA006BFE03 /* Assets.xcassets */; };
 		1445FC851EB371BA006BFE03 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1445FC831EB371BA006BFE03 /* LaunchScreen.storyboard */; };
+		1445FC8D1EB37B14006BFE03 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1445FC8C1EB37B14006BFE03 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1445FC811EB371BA006BFE03 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1445FC841EB371BA006BFE03 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1445FC861EB371BA006BFE03 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1445FC8C1EB37B14006BFE03 /* SecondView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				1445FC7A1EB371BA006BFE03 /* AppDelegate.swift */,
 				1445FC7C1EB371BA006BFE03 /* ViewController.swift */,
+				1445FC8C1EB37B14006BFE03 /* SecondView.swift */,
 				1445FC7E1EB371BA006BFE03 /* Main.storyboard */,
 				1445FC811EB371BA006BFE03 /* Assets.xcassets */,
 				1445FC831EB371BA006BFE03 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1445FC8D1EB37B14006BFE03 /* SecondView.swift in Sources */,
 				1445FC7D1EB371BA006BFE03 /* ViewController.swift in Sources */,
 				1445FC7B1EB371BA006BFE03 /* AppDelegate.swift in Sources */,
 			);
